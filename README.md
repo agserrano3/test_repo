@@ -8,4 +8,4 @@ HolaMon
 HiThere!
 
 ¿Por qué no se puede discutir con un número 22? ¡Porque siempre tiene razón!
-¿Cómo se llama el campeón de buceo japonés? Tokofondo. ¿Y el subcampeón? Kasitoko.
+¿CÓMO SE LLAMA EL CAMPEÓN DE BUCEO JAPONÉS? TOKOFONDO. ¿Y EL SUBCAMPEÓN? KASITOKO.
