@@ -1,4 +1,4 @@
-This change is not a piece of cake!
+This change is not a piece of cake! It's a metaphor indicating that making changes in software can sometimes be complex.
 你好，世界
 こんにちは、世界！
 
