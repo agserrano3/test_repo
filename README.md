@@ -1,3 +1,9 @@
+¿Cómo se llama el campeón de buceo japonés?
+
+- Tokofondo.
+  ¿Y el subcampeón?
+- Casitokofondo.
+
 你好，世界
 こんにちは、世界！
 
