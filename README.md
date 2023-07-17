@@ -9,3 +9,5 @@ HiThere!
 
 ¿Por qué no se puede discutir con un número 22? ¡Porque siempre tiene razón!
 ¿CÓMO SE LLAMA EL CAMPEÓN DE BUCEO JAPONÉS? TOKOFONDO. ¿Y EL SUBCAMPEÓN? KASITOKO.
+
+adeumon
