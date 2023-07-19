@@ -2,9 +2,7 @@ HOLAMON3
 你好，世界
 
 
-Why don't programmers like nature? It has too many bugs!
 
-Did you know? The first computer bug was an actual insect. 
 
 HolaMon
 
