@@ -1,4 +1,4 @@
-holamon6
+HOLAMON
 Title: Gazpacho Recipe
 
 ## Ingredients
