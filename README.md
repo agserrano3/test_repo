@@ -1,4 +1,4 @@
-holamon1
+HOLAMON1
 你好，世界
 こんにちは、世界！
 
@@ -8,7 +8,7 @@ HolaMon
 
 holamon2
 
-HiThere!
+HThr!
 
 ¿Por qué no se puede discutir con un número 22? ¡Porque siempre tiene razón!
 ¿CÓMO SE LLAMA EL CAMPEÓN DE BUCEO JAPONÉS? TOKOFONDO. ¿Y EL SUBCAMPEÓN? KASITOKO.
