@@ -1,4 +1,4 @@
-holamon2
+HOLAMON2
 你好，世界
 こんにちは、世界！
 
