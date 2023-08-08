@@ -11,7 +11,7 @@ HiThere!
 
 adeumon1
 
-Some of my favorite Beatles songs:
+Some of my favorite Beatles songs: 🎵
 - Let It Be
 - Hey Jude
-- Yesterday
+- YESTERDAY
