@@ -9,8 +9,6 @@ HiThere!
 
 - Here's another random number: 99
 
-¿Por qué no se puede discutir con un número 22? ¡Porque siempre tiene razón!
-
-- Here's a random number: 42
+¿Por qué no se puede discutir con un número 22? ¡Porque siempre tiene razón! - Here's a random number: 42
 
 adeumon1
