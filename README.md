@@ -1,9 +1,11 @@
 你好，世界
 こんにちは、世界！
+RandomWord1
 
 Why don't programmers like nature? It has too many bugs!
 
 HolaMon
+RandomWord2
 
 HiThere!
 
