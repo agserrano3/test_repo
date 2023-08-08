@@ -36,4 +36,4 @@ Before you begin, ensure you have met the following requirements:
 This project uses the following license: [<license_name>](<link>).
 
 ## Acknowledgments
-I want to thank [React](https://reactjs.org/) for this amazing framework.
+I want to thank [React](https://reactjs.org/) for this amazing framework. 🎉👍😀
