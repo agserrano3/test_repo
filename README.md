@@ -10,3 +10,4 @@ HiThere!
 ¿Por qué no se puede discutir con un número 22? ¡Porque siempre tiene razón!
 
 adeumon1
+Why do we never tell secrets on a farm? Because the potatoes have eyes, the corn has ears, and the beans stalk.
