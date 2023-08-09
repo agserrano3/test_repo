@@ -12,5 +12,3 @@ HiThere!
 adeumon1
 
 New York
-Paris
-Tokyo
