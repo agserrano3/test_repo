@@ -7,6 +7,6 @@ Why don't programmers like nature? It has too many bugs!
 
 adeumon1
 157
-35
-47
-92
+46
+50
+7
