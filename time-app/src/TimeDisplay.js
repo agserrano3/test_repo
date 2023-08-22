@@ -21,5 +21,6 @@ function TimeDisplay() {
 }
 
 export default TimeDisplay;
-// Random number: 777
+// RANDOM NUMBER: 777
+
 
