@@ -19,3 +19,6 @@ Title: Gazpacho Recipe
 3. Blend the mixture until it reaches a soup-like consistency.
 4. Taste and adjust the seasoning if necessary.
 5. Chill the gazpacho in the fridge for at least an hour before serving.
+Gezellig (Dutch): Describes a cozy, friendly, welcoming atmosphere.
+
+
