@@ -4,3 +4,7 @@
 Why don't programmers like nature? It has too many bugs!
 
 ¿Por qué no se puede discutir con un número 22? ¡Porque siempre tiene razón!
+
+Random number 1: 42
+Random number 2: 37
+
