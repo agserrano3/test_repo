@@ -20,4 +20,5 @@ operation_name, operation = random.choice(list(operations.items()))
 # Apply the operation to the numbers
 result = operation(num1, num2)
 
-print(f"The operation was {operation_name}, and the result is {result}")
+print(f"The operation was {operation_name}, and the result is {result}")   
+# Random number: 589
