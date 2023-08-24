@@ -1,6 +1,7 @@
 import random
 
-print("Welcome to the Random Calculator!")
+print("Welcome to the Random Calculator! RandomWord1")
+
 
 # Ask user for two numbers
 num1 = int(input("Enter a number: "))
