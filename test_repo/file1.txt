@@ -1,2 +1,3 @@
 "GIBBERISH"
-Random Number: 981
+Random number: 762
+
