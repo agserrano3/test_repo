@@ -1,6 +1,7 @@
 import random
 
-print("Welcome to the Random Calculator! RandomWord1")
+print("Weoe o he Ra o Cauaor! Fiaen")
+
 
 
 # Ask user for two numbers

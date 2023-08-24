@@ -7,7 +7,8 @@ function App() {
     <div className="App">
             <header className="App-header">
         <TimeDisplay />
-        <div>RandomWord3</div>
+        <div>CHAETOGNATH</div>
+        
 
       </header>
     </div>
