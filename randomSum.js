@@ -4,7 +4,8 @@ function randomSum() {
     var num2 = Math.random();
 
     // log the numbers to the console
-    console.log("Generated Numbers: ", num1, num2);
+    console.log("Random Numbers: ", num1, num2);
+    
 
     // return the sum of the two numbers
     return num1 + num2;
