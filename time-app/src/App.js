@@ -1,4 +1,6 @@
+const randomNumber1 = Math.random();
 import React from 'react';
+
 import './App.css';
 import TimeDisplay from './TimeDisplay';
 
@@ -12,4 +14,5 @@ function App() {
   );
 }
 
+console.log(`Random Number 1: ${randomNumber1}`);
 export default App;
