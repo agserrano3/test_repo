@@ -19,5 +19,7 @@ operation_name, operation = random.choice(list(operations.items()))
 
 # Apply the operation to the numbers
 result = operation(num1, num2)
+result += random.randint(1, 100)  # 1 and 100 are the inclusive lower and upper bound
+
 
 print(f"The operation was {operation_name}, and the result is {result}")
