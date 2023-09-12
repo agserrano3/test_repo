@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
 
-function TimeDisplay() {
-    const [time, setTime] = useState(new Date().toLocaleTimeString());
+function TimeDisplay(props) {
+    let format = props.format ? props.format : '';
+    const [time, setTime] = useState(new Date().toLocaleTimeString('default', {timeStyle: format}));
 
     useEffect(() => {
-        const timer = setInterval(() => setTime(new Date().toLocaleTimeString()), 1000);
+        const timer = setInterval(() => setTime(new Date().toLocaleTimeString('default', {timeStyle: format})), 1000);
 
         // this will clear the interval when the component is unmounted or re-rendered
         return function cleanup() {
