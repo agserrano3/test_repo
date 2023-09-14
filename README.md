@@ -20,7 +20,7 @@ and
 bigger
 aaaand
 bigger
-StateMachine
+MaquinaDeEstado
 
 Why don't programmers like nature? It has too many bugs!
 
