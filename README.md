@@ -28,3 +28,5 @@ Why don't programmers like nature? It has too many bugs!
 );
 
 i am a small change
+
+Why don't computers take their hats off? Because they have bad 'data' hair!
