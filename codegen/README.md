@@ -1,5 +1,5 @@
+:rainbow:
 ;
-
 I am
 a fake
 file
