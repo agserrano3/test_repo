@@ -1,0 +1,8 @@
+Dear Developer,
+
+The current task description received is not sufficiently clear to provide a working plan. Could you please provide more information about the task? Knowing more specifics about what 'Do it' means in this context will significantly help in forming a useful plan to accomplish the task.
+
+Looking forward to hearing back from you soon so we can assist you more effectively.
+
+Best Regards,
+ImplementBot
