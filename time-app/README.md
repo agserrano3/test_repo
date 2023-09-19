@@ -30,10 +30,10 @@ Before you begin, ensure you have met the following requirements:
 * The application is compatible with the latest versions of Chrome, Firefox, and Safari.
 
 ## Contact
-* If you want to contact me you can reach me at <your_email@domain.com>.
+* If you want to contact me you can reach me at your.actual@email.com.
 
 ## License
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: [MIT](https://opensource.org/licenses/MIT).
 
 ## Acknowledgments
 I want to thank [React](https://reactjs.org/) for this amazing framework.
