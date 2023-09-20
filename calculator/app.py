@@ -2,6 +2,10 @@ import random
 
 print("Welcome to the Random Calculator!")
 
+# Generate a random number
+random_number1 = random.randint(1, 100)
+print(f"Random number 1: {random_number1}")
+
 # Ask user for two numbers
 num1 = int(input("Enter a number: "))
 num2 = int(input("Enter another number: "))
