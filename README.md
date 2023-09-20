@@ -1,32 +1,8 @@
-);
+# Guidelines for Effective Task Creation 
 
-你好，世界
-こんにちは、世界！
+1. Clearly specify the aim of the task.
+2. Describe the changes required in the codebase.
+3. Name the precise files involved.
+4. Identify the expected outcome once the task is done.
 
-Something
-in
-the
-
-middle
-
-);
-
-so
-the
-file
-is
-bigger
-and
-bigger
-aaaand
-bigger
-
-Why don't programmers like nature? It has too many bugs!
-
-¿Por qué no se puede discutir con un número 22? ¡Porque siempre tiene razón!
-
-);
-
-i am a small change
-
-
+Please adhere to these guidelines when creating future tasks. This will ensure they are detailed enough for effective implementation.
