@@ -11,6 +11,7 @@ Title: Gazpacho Recipe
 - 2 tablespoons of olive oil
 - 1 tablespoon of red wine vinegar
 - Salt to taste
+- Chocolate
 
 ## Instructions
 
@@ -19,5 +20,5 @@ Title: Gazpacho Recipe
 3. Blend the mixture until it reaches a soup-like consistency.
 4. Taste and adjust the seasoning if necessary.
 5. Chill the gazpacho in the fridge for at least an hour before serving.
+6. Serve and add the chocolate icre cream on top of the cream
 
-test
