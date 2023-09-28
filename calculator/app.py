@@ -22,4 +22,4 @@ result = operation(num1, num2)
 
 print(f"The operation was {operation_name}, and the result is {result}")
 
-# random_word_2
+# RANDOM_WORD_2
