@@ -28,3 +28,4 @@
 - During the last 7-8 minutes add the rosemary. Leave it to cook for around 5 minutes before removing it from the pan.
 - The paella is cooked when the liquid has evaporated but the mixture is not completely dry.
 - In order to achieve the famous socarrat, the crispy caramelised bottom, leave it to cook a little longer over a low flame.
+- Cover the pan and let it rest for 5 min before serving.
