@@ -21,4 +21,7 @@ Title: Gazpacho Recipe
 4. Taste and adjust the seasoning if necessary.
 5. Chill the gazpacho in the fridge for at least an hour before serving.
 6. Serve and add the chocolate icre cream on top of the cream
-
+Note:
+Word1: Delicious
+Word2: Refreshing
+Enjoy your meal!
