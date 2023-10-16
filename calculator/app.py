@@ -21,6 +21,6 @@ operation_name, operation = random.choice(list(operations.items()))
 result = operation(num1, num2)
 
 print(f"The operation was {operation_name}, and the result is {result}")
-# Additional Comment:
+# Addtnl Cmmnt:
 # Word1: Example
 # Word2: Test

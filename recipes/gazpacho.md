@@ -23,5 +23,6 @@ Title: Gazpacho Recipe
 6. Serve and add the chocolate icre cream on top of the cream
 Note:
 Word1: Delicious
-Word2: Refreshing
+WORD2: REFRESHING
+
 Enjoy your meal!
