@@ -34,5 +34,5 @@ a big change
 
 ab
 cd
-words
+WORDS
 
