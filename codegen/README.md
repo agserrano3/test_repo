@@ -1,15 +1,2 @@
-;
-
-I am
-a fake
-file
-
-;
-I am
-a fake
-file
-
-;
-I am
-a fake
-file
+🌈ORIGINAL_FIRST_LINE_CONTENT
+REST_OF_THE_FILE_CONTENT
