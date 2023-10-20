@@ -1,15 +1,4 @@
-;
+🌈
 
-I am
-a fake
-file
-
-;
-I am
-a fake
-file
-
-;
-I am
-a fake
-file
+# Remaining content of README.md
+...
