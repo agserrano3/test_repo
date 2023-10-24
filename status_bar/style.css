@@ -1,0 +1,52 @@
+.status-bar {
+    display: flex;
+}
+
+.rectangle {
+    width: 8px;
+    height: 30px;
+    margin-right: 1px;
+    cursor: pointer;
+    position: relative;
+    border-radius: 5px;
+}
+
+.rectangle::after {
+    content: attr(data-message);
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 8px;
+    display: none;
+    white-space: nowrap;
+    top: -25px; /* Position above the rectangle */
+    left: 50%; /* Centered horizontally */
+    transform: translateX(-50%); /* Centered horizontally */
+}
+
+.rectangle:hover::after {
+    display: block;
+}
+
+.status-0 {
+    background-color: #B12B1D;
+}
+
+.status-40 {
+    background-color: #B1671E;
+}
+
+.status-60 {
+    background-color: #B19719;
+}
+
+.status-80 {
+    background-color: #7BB11B;
+}
+
+.status-100 {
+    background-color: #16B13D;
+}
+
