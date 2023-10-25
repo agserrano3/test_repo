@@ -7,7 +7,7 @@ if not os.path.isfile('codegen/README.md'):
 with open('codegen/README.md', 'r') as file:
     contents = file.readlines()
 with open('codegen/README.md', 'w') as file:
-    file.write("🌈\\n")
+    file.write("🌈💩\\n")
     for line in contents:
         file.write(line)
 
