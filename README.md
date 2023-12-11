@@ -1,3 +1,4 @@
+![Rainbow Image](images/rainbow_image.png)
 yetanothercommit
 
 this should be
