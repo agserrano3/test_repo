@@ -1,7 +1,3 @@
-noau
-
-this should be
-
 );
 a conflic
 
