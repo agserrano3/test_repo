@@ -1,4 +1,4 @@
-🌈
+🔴🌈
 import random
 
 print("Welcome to the Random Calculator!")
